@@ -1,4 +1,4 @@
-#% way rock, paper, scissors from the Big Bang Theory
+#5 way rock, paper, scissors, lizard and spock from the Big Bang Theory
 
 
 #importing the random module
