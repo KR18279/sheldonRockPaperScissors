@@ -7,9 +7,14 @@ A fun Python command-line game based on the extended version of Rock–Paper–S
 - Lizard
 - Spock
 
-💡 Inspired by Sheldon Cooper's legendary logic.
+🙏 Credits
+This project was inspired and guided by the following YouTube tutorials:
 
----
+Rock Paper Scissors Lizard Spock Python Tutorial
+
+Big Bang Theory Game Python Implementation
+
+Thank you to the creators of those videos for making the logic fun and easy to understand.
 
 ## 🎮 How to Play
 
