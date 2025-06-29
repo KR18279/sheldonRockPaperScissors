@@ -10,9 +10,11 @@ A fun Python command-line game based on the extended version of Rock–Paper–S
 🙏 Credits
 This project was inspired and guided by the following YouTube tutorials:
 
-Rock Paper Scissors Lizard Spock Python Tutorial
+ROCK PAPER SCISSORS game in Python 🗿
+https://www.youtube.com/watch?v=fn68QNcatfo
 
-Big Bang Theory Game Python Implementation
+How to code Rock Paper Scissors (Beginner Python Tutorial)
+https://www.youtube.com/watch?v=xRlN8CFJwAM
 
 Thank you to the creators of those videos for making the logic fun and easy to understand.
 
